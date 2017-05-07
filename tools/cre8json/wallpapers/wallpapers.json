@@ -1,46 +1,95 @@
 {
 	"wallpapers": [
 		{
-			"name": "1",
-			"author": "Jahir Fiquitiva",
-			"url": "https://s.tmimgcdn.com/scr/63300/63333_2-big.jpg",
+			"name": "Wallpaper 1",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/k7kevk/Wallpaper_1.png",
 			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
 		},
 		{
-			"name": "2",
-			"author": "Jahir Fiquitiva",
-			"url": "https://s.tmimgcdn.com/scr/63300/63333_2-big.jpg",
+			"name": "Wallpaper 2",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/cQKTo5/Wallpaper_2.png",
 			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
 		},
 		{
-			"name": "3",
-			"author": "Jahir Fiquitiva",
-			"url": "https://s.tmimgcdn.com/scr/63300/63333_2-big.jpg",
+			"name": "Wallpaper 3",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/g5EuT5/Wallpaper_3.png",
 			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
 		},
 		{
-			"name": "4",
-			"author": "Jahir Fiquitiva",
-			"url": "https://s.tmimgcdn.com/scr/63300/63333_2-big.jpg",
+			"name": "Wallpaper 4",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/kO1V1Q/Wallpaper_4.png",
 			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
 		},
 		{
-			"name": "5",
-			"author": "Jahir Fiquitiva",
-			"url": "https://s.tmimgcdn.com/scr/63300/63333_2-big.jpg",
+			"name": "Wallpaper 5",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/mnxg85/Wallpaper_5.png",
 			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
 		},
 		{
-			"name": "6",
-			"author": "Jahir Fiquitiva",
-			"url": "https://s.tmimgcdn.com/scr/63300/63333_2-big.jpg",
+			"name": "Wallpaper 6",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/iSNg85/Wallpaper_6.png",
 			"dimensions": "3200 x 2560",
-			"copyright": "Copyright ¸ 2016 Jahir Fiquitiva. All rights reserved."
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 7",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/cxwmak/Wallpaper_7.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 8",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/dzRmak/Wallpaper_8.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 9",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/fdGKvk/Wallpaper_9.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 10",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/gutM85/Wallpaper_10.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 11",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/cAC3MQ/Wallpaper_11.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 12",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/ntSRak/Wallpaper_12.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
+		},
+		{
+			"name": "Wallpaper 13",
+			"author": "Levan Lobzhanidze",
+			"url": "https://image.ibb.co/bMWmak/Wallpaper_13.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2017 Levan Lobzhaniadze. All rights reserved."
 		}
 	]
 }
